@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#banner h2 {
+    text-shadow: 5px 3px 5px rgba(41, 41, 40, 0.568);
+}
+
+footer {
+    position: fixed;
+}
